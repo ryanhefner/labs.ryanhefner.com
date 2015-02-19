@@ -1,3 +1,3 @@
 # labs.ryanhefner.com
 
-Exploration space for Ryan Hefner.
+Experimentation space for Ryan Hefner.
