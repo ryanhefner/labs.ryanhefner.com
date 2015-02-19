@@ -1,0 +1,42 @@
+html,
+body {
+	width: 100%;
+	height: 100%;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 62.5%;
+}
+
+body {
+	font-family: "PT Mono", "Inconsolata", Courier;
+	font-size: 1.3rem;
+	background-color: #0c1021;
+	color: #fefefe;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 1.3rem;
+	font-weight: 400;
+	line-height: 250%;
+	/*border-bottom: 1px dashed #484848;*/
+}
+
+a {
+	color: #1c7bff;
+}
+
+a:visited {
+	color: #971cff;
+}
+
+header,
+.main,
+footer {
+	padding: 3rem;
+}
