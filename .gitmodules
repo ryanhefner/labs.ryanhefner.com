@@ -1,4 +1,1 @@
 
-[submodule "repos/googlecast-wrappers"]
-	path = repos/googlecast-wrappers
-	url = git@github.com:ryanhefner/googlecast-wrappers.git
