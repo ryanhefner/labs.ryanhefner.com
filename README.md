@@ -1,3 +1,3 @@
 # labs.ryanhefner.com
 
-Experimentation space for Ryan Hefner.
+A personal place to explore different projects and ideas.
